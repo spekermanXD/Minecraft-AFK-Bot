@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "peruanosserver.sdlf.fun",
+  "serverPort": 19123,
+  "botUsername": "potonegro",
   "botChunk": 1
 }
